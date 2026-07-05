@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0117_000.yaml, hash: 'sha256:94ec93816f2c08adc03a5733941242fecce4238f2093f5e54180946e423cde04'}
-  - {seq: 1, filename: KR6k0117_001.yaml, hash: 'sha256:4db990e8c4137d23c6cbebf47dcad7d90fa094fb05151b5e8e60537aa3d74adc'}
+  - {seq: 1, filename: KR6k0117_001.yaml, hash: 'sha256:d4a51401a2e6f82af9f5ebf03bf4db87803ec324cbc14a6a22293779ea1c8963'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0117_001.markers.yaml, hash: 'sha256:bd548f69f31d109d5384e49b853b5e1823abbdb48c657fcae40786e2f3ede9ee'}
+  - {seq: 0, role: markers, filename: assets/KR6k0117_000.markers.yaml, hash: 'sha256:f213d039541e0da102cd01a26bfecbbc3ec23409d27066f804b4c048064f7de9'}
+  - {seq: 1, role: markers, filename: assets/KR6k0117_001.markers.yaml, hash: 'sha256:7dda2de9f6ff9d11d1fdc14ec5783fa4bba4e9e50283e3efa9b11cb8b0c800fa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 善恭敬經
   type: juan
   level: 1
-hash: sha256:595bb1df227aea6ff2e62b54f7d219c745053b9e03f05396eb31ab1007ce847a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9cd003a3e5fdc63dd988a3678a38ec528003a4fba0b1c7c07ad7f509f25cfd02
